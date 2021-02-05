@@ -1,2 +1,2 @@
 # fork-demo
-A simple repo for demonstration of fork creation, synchronization and pull requests
+A dummy repo for demonstration of fork creation, synchronization and pull requests
